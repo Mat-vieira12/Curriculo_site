@@ -1,24 +1,8 @@
-h1 {
-    font-size: 40px;
+body {
+    background-color: #F0F8FF; /* Azul Alice */
 }
 
-h2 {
-    font-size: 40px;
-}
-
-h3 {
-    font-size: 40px;
-}
-
-h4 {
-    font-size: 40px;
-}
-
-h5 {
-    font-size: 40px;
-}
-
-h6 {
+h1, h2, h3, h4, h5, h6 {
     font-size: 40px;
 }
 
